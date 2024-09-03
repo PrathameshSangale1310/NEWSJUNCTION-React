@@ -1,0 +1,123 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Whales were healthy before Orkney stranding - expert",
+      "description": "The animals were found on the island of Sanday following what could be the largest mass stranding in nearly 100 years.",
+      "url": "https://www.bbc.co.uk/news/articles/c7240nex4ljo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98a4/live/93e639b0-41f0-11ef-9e1c-3b4a473456a6.jpg",
+      "publishedAt": "2024-07-15T08:07:12.8432128Z",
+      "content": "The pod included male whales, measuring up to seven metres (22ft) long, as well as females, calves and juveniles.\r\nThe British Divers Marine Life Rescue (BDMLR) established that 12 of the animals at … [+1143 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "WAFAA SHURAFA and MELANIE LIDMAN",
+      "title": "Hamas says Gaza cease-fire talks haven't paused and claims military chief survived Israeli strike",
+      "description": "MUWASI, Gaza Strip (AP) — Hamas said Sunday that Gaza cease-fire talks were ongoing and the group’s military commander was in good health, a day after the Israeli military targeted Mohammed Deif with a massive airstrike that local health officials said killed…",
+      "url": "https://apnews.com/728bb0842141ba246456422ebf93deb0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/cb94fb8b0f8947389e4aca1e0b4d235d/3000.jpeg",
+      "publishedAt": "2024-07-14T13:45:44Z",
+      "content": "MUWASI, Gaza Strip (AP) — Hamas said Sunday that Gaza cease-fire talks were ongoing and the group’s military commander was in good health, a day after the Israeli military targeted Mohammed Deif with… [+4567 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "By Andrew R Chow/Granbury, Texas, Photographs by Jake Dockins for TIME",
+      "title": "‘We’re Living in a Nightmare:’ Inside the Health Crisis of a Texas Bitcoin Town",
+      "description": "TIME spoke to over 40 people in Granbury, Texas who believe their medical issues stem from a Bitcoin mine owned by Marathon Digital Holdings.",
+      "url": "http://time.com/6982015/bitcoin-mining-texas-health/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/07/bitcoin-mining-granbury-texas1-1.jpeg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-07-08T16:00:49Z",
+      "content": "On an evening in December 2023, 43-year-old small business owner Sarah Rosenkranz collapsed in her home in Granbury, Texas and was rushed to the emergency room. Her heart pounded 200 beats per minute… [+26268 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Jamie Ducharme",
+      "title": "Do Less. It’s Good for You",
+      "description": "Many people struggle to relax. But unproductive moments can boost health and happiness.",
+      "url": "http://time.com/6981061/relaxation-health-benefits/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/06/240624_WRELAX_001.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-06-10T14:14:38Z",
+      "content": "You take a vacation day, but get distracted by the thought of your work inbox filling up. Or you sit down to watch a movie and immediately feel guilty about all the tasks still on your to-do list. Or… [+7234 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Paul Ian Cross, PhD",
+      "title": "Exercising to keep the brain young: Latest research and expert opinions",
+      "description": "This Special Feature offers an overview of the latest research on the ways in which exercise helps maintain brain health and boosts the health- and life span",
+      "url": "https://www.medicalnewstoday.com/articles/exercising-to-keep-the-brain-young-latest-research-and-expert-opinions",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/05/senior-man-swimming-pool-1200-628-facebook.jpg",
+      "publishedAt": "2024-05-26T06:00:00Z",
+      "content": "Exercise greatly benefits brain health, improving cognition, mood and reducing the risk of neurodegenerative diseases. Several new studies have demonstrated the profound impact of exercise on various… [+9036 chars]"
+    },
+    {
+      "source": {
+        "id": "recode",
+        "name": "Recode"
+      },
+      "author": "Celia Ford",
+      "title": "Phones and mental health: What if an app can tell you if you’re depressed?",
+      "description": "Emerging apps like MoodCapture use AI to guess when you’ll be sad. Can they also help you feel better?",
+      "url": "https://www.vox.com/future-perfect/24150430/depression-detection-technology-ai-tests-apps-mental-health",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sKqyLa2kPkjuiUjAhCZcLqm3CvQ=/0x0:4590x2403/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25435888/681977094.jpg",
+      "publishedAt": "2024-05-07T11:30:00Z",
+      "content": "If you have a sore throat, you can get tested for a host of things Covid, RSV, strep, the flu and receive a pretty accurate diagnosis (and maybe even treatment). Even when youre not sick, vital signs… [+15415 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Jennifer Bray",
+      "title": "Abortion rules should be relaxed, review to recommend",
+      "description": "Minister for Health Stephen Donnelly considering report by barrister Marie O’Shea which examined operation of the existing law",
+      "url": "https://www.irishtimes.com/ireland/social-affairs/2023/03/29/review-calls-for-abortion-law-to-be-relaxed/",
+      "urlToImage": "https://www.irishtimes.com/resizer/DycgF-s39PfaIVo4cOhhhNhDjqM=/1200x630/filters:format(jpg):quality(70):focal(1109x649:1119x659)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YVVSZCLNN6CW4NWJKGEPUSEAPE.jpg",
+      "publishedAt": "2023-03-29T04:15:00Z",
+      "content": "A new review of the States abortion law is set to recommend a loosening of existing rules which could involve the removal of the three-day wait to access medication.\r\nMinister for Health Stephen Donn… [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Wency Leung",
+      "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+      "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+      "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+      "publishedAt": "2022-06-15T17:00:00Z",
+      "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Will Goodbody",
+      "title": "Efforts continue to assess extent of ransomware issue",
+      "description": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services here.",
+      "url": "https://www.rte.ie/news/coronavirus/2021/0515/1221735-hse-cyber-atack/",
+      "urlToImage": "https://img.rasset.ie/0016bdc3-1600.jpg",
+      "publishedAt": "2021-05-15T06:18:56Z",
+      "content": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services.\r\nThe HSE has said it will take a number of days before i… [+1264 chars]"
+    }
+  ]
+}
